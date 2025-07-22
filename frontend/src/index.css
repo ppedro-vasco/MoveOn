@@ -1,0 +1,29 @@
+/* src/index.css */
+@import "tailwindcss";
+
+
+/* Removidas as regras de color-scheme e background-color do :root */
+/* Deixando o Tailwind controlar o tema e cores de fundo */
+
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  /* Exemplo de fonte */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input {
+  -webkit-appearance: none;
+  /* Remove estilos padrão de navegadores para inputs */
+  -moz-appearance: none;
+  appearance: none;
+}

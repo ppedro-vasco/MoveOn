@@ -1,0 +1,332 @@
+{
+    "Glicemia": {
+        "unit": "mg/dL",
+        "ranges": [
+            {
+                "max": 99.9,
+                "score": 0
+            },
+            {
+                "min": 100,
+                "max": 125.9,
+                "score": 1
+            },
+            {
+                "min": 126,
+                "score": 2
+            }
+        ]
+    },
+    "Hemoglobina Glicada": {
+        "unit": "%",
+        "ranges": [
+            {
+                "max": 5.6,
+                "score": 0
+            },
+            {
+                "min": 5.7,
+                "max": 6.4,
+                "score": 1
+            },
+            {
+                "min": 6.5,
+                "score": 2
+            }
+        ]
+    },
+    "Triglicérides": {
+        "unit": "mg/dL",
+        "ranges": [
+            {
+                "max": 149.9,
+                "score": 0
+            },
+            {
+                "min": 150,
+                "max": 199.9,
+                "score": 1
+            },
+            {
+                "min": 200,
+                "score": 2
+            }
+        ]
+    },
+    "Colesterol LDL": {
+        "unit": "mg/dL",
+        "ranges": [
+            {
+                "max": 99.9,
+                "score": 0
+            },
+            {
+                "min": 100,
+                "max": 129.9,
+                "score": 1
+            },
+            {
+                "min": 130,
+                "score": 2
+            }
+        ]
+    },
+    "Ferritina": {
+        "unit": "ng/mL",
+        "ranges": [
+            {
+                "min": 20,
+                "max": 300,
+                "score": 0
+            },
+            {
+                "min": 301,
+                "max": 400,
+                "score": 1
+            },
+            {
+                "max": 19.9,
+                "score": 1
+            },
+            {
+                "min": 401,
+                "score": 2
+            }
+        ]
+    },
+    "TSH": {
+        "unit": "mUI/L",
+        "ranges": [
+            {
+                "min": 0.4,
+                "max": 4.0,
+                "score": 0
+            },
+            {
+                "max": 0.39,
+                "score": 1
+            },
+            {
+                "min": 4.1,
+                "max": 10.0,
+                "score": 1
+            },
+            {
+                "min": 10.1,
+                "score": 2
+            }
+        ]
+    },
+    "Homocisteína": {
+        "unit": "µmol/L",
+        "ranges": [
+            {
+                "max": 15.0,
+                "score": 0
+            },
+            {
+                "min": 15.1,
+                "max": 20.0,
+                "score": 1
+            },
+            {
+                "min": 20.1,
+                "score": 2
+            }
+        ]
+    },
+    "Gama GT": {
+        "unit": "U/L",
+        "ranges": [
+            {
+                "male_max": 60,
+                "female_max": 40,
+                "score": 0
+            },
+            {
+                "male_min": 61,
+                "female_min": 41,
+                "score": 1
+            },
+            {
+                "male_min": 120,
+                "female_min": 80,
+                "score": 2
+            }
+        ]
+    },
+    "Creatina": {
+        "unit": "mg/dL",
+        "ranges": [
+            {
+                "male_max": 1.2,
+                "female_max": 1.0,
+                "score": 0
+            },
+            {
+                "male_min": 1.3,
+                "female_min": 1.1,
+                "score": 1
+            },
+            {
+                "male_min": 2.0,
+                "female_min": 1.5,
+                "score": 2
+            }
+        ]
+    },
+    "Vitamina B12": {
+        "unit": "pg/mL",
+        "ranges": [
+            {
+                "min": 200,
+                "max": 900,
+                "score": 0
+            },
+            {
+                "max": 199.9,
+                "score": 1
+            },
+            {
+                "min": 900.1,
+                "score": 1
+            }
+        ]
+    },
+    "Vitamina D": {
+        "unit": "ng/mL",
+        "ranges": [
+            {
+                "min": 30,
+                "max": 100,
+                "score": 0
+            },
+            {
+                "max": 29.9,
+                "score": 1
+            },
+            {
+                "min": 100.1,
+                "score": 1
+            }
+        ]
+    },
+    "Doenças Crônicas Pré-existentes": {
+        "ranges": [
+            {
+                "value": "Nenhuma",
+                "score": 0
+            },
+            {
+                "value": "Uma Doença Crônica",
+                "score": 2
+            },
+            {
+                "value": "Duas ou Mais Doenças Crônicas",
+                "score": 3
+            }
+        ]
+    },
+    "Pressão Arterial": {
+        "ranges": [
+            {
+                "category": "NORMAL",
+                "score": 0
+            },
+            {
+                "category": "PRÉ-HIPERTENSÃO",
+                "score": 1
+            },
+            {
+                "category": "HIPERTENSAO",
+                "score": 2
+            }
+        ]
+    },
+    "IMC": {
+        "ranges": [
+            {
+                "category": "NORMAL",
+                "score": 0
+            },
+            {
+                "category": "SOBREPESO",
+                "score": 1
+            },
+            {
+                "category": "OBESIDADE",
+                "score": 2
+            }
+        ]
+    },
+    "Circunferência Abdominal": {
+        "ranges": [
+            {
+                "category": "Homem < 94 cm",
+                "score": 0
+            },
+            {
+                "category": "Mulher < 80 cm",
+                "score": 0
+            },
+            {
+                "category": "Homem 94 – 102 cm",
+                "score": 1
+            },
+            {
+                "category": "Mulher 80 – 88 cm",
+                "score": 1
+            },
+            {
+                "category": "Homem > 102 cm",
+                "score": 2
+            },
+            {
+                "category": "Mulher > 88 cm",
+                "score": 2
+            }
+        ]
+    },
+    "Atividade Física": {
+        "ranges": [
+            {
+                "value": "Sim",
+                "score": 0
+            },
+            {
+                "value": "Não",
+                "score": 1
+            }
+        ]
+    },
+    "Tabagista": {
+        "ranges": [
+            {
+                "value": "Não",
+                "score": 0
+            },
+            {
+                "value": "Sim",
+                "score": 2
+            }
+        ]
+    },
+    "Sono": {
+        "unit": "horas por noite",
+        "ranges": [
+            {
+                "min": 7,
+                "max": 9,
+                "score": 0
+            },
+            {
+                "max": 6.9,
+                "score": 1
+            },
+            {
+                "min": 9.1,
+                "score": 1
+            }
+        ]
+    }
+}

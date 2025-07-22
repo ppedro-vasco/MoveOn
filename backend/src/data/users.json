@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "type": "admin",
+        "name": "Admin Master",
+        "cpf": "123.456.789-00",
+        "username": "admin",
+        "password": "admin_password"
+    },
+    {
+        "id": "2",
+        "type": "user",
+        "name": "Carlos Silva",
+        "registro": "EMP001",
+        "username": "carlos",
+        "password": "user_password"
+    },
+    {
+        "id": "3",
+        "type": "user",
+        "name": "Mariana Souza",
+        "registro": "EMP002",
+        "username": "mariana",
+        "password": "user_password"
+    },
+    {
+        "id": "6e60b8e5-93bd-4b5f-b454-28e0242c42ec",
+        "name": "Teste",
+        "username": "teste_user",
+        "password": "teste@teste",
+        "type": "user",
+        "registro": "9803452"
+    },
+    {
+        "id": "5c0f9726-6270-40cf-98ea-18a835686d84",
+        "name": "Fernanda",
+        "username": "fernanda",
+        "password": "senha",
+        "type": "user",
+        "registro": "9804587"
+    },
+    {
+        "id": "56367c4f-3559-4b25-9384-8ad7def9daf5",
+        "name": "Rivka",
+        "username": "rikva",
+        "password": "123456",
+        "type": "user",
+        "registro": "9804587"
+    }
+]

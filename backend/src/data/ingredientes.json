@@ -1,0 +1,1793 @@
+[
+    {
+        "id": "1",
+        "nome": "Abacaxi",
+        "unidade_medida": "1 fatia média",
+        "calorias_por_unidade": 36.0,
+        "proteinas_por_unidade": 0.68,
+        "carboidratos_por_unidade": 9.23,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "2",
+        "nome": "Abobrinha c/ Cenoura e Orégano",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 35.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "3",
+        "nome": "Abobrinha Colorida",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "4",
+        "nome": "Abobrinha Temperada",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 35.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "5",
+        "nome": "Abobrinha Temperada",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 12.0,
+        "proteinas_por_unidade": 0.4,
+        "carboidratos_por_unidade": 1.5,
+        "gorduras_por_unidade": 0.1
+    },
+    {
+        "id": "6",
+        "nome": "Agrião c/ Tomate Seco",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 54.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "7",
+        "nome": "Alface",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 9.0,
+        "proteinas_por_unidade": 0.2,
+        "carboidratos_por_unidade": 0.2,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "8",
+        "nome": "Alface c/ Acelga",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 10.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "9",
+        "nome": "Alface c/ Agrião e Croutons",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 9.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "10",
+        "nome": "Alface c/ Almeirão",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 9.4,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "11",
+        "nome": "Alface c/ Azeitonas ",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 16.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "12",
+        "nome": "Alface c/ Croutons",
+        "unidade_medida": "1 pegador cheio",
+        "calorias_por_unidade": 12.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "13",
+        "nome": "Alface c/ Laranja",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 15.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "14",
+        "nome": "Alface c/ Rúcula",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 9.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "15",
+        "nome": "Alface c/ Tomate Cereja",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 11.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "16",
+        "nome": "Almeirão",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 11.0,
+        "proteinas_por_unidade": 0.2,
+        "carboidratos_por_unidade": 0.4,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "17",
+        "nome": "Almôndega Bovina",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 268.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "18",
+        "nome": "Almôndegas Bovino",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "19",
+        "nome": "Angu",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 61.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "20",
+        "nome": "Arroz",
+        "unidade_medida": "70g",
+        "calorias_por_unidade": 89.6,
+        "proteinas_por_unidade": 1.75,
+        "carboidratos_por_unidade": 19.67,
+        "gorduras_por_unidade": 0.14
+    },
+    {
+        "id": "21",
+        "nome": "Arroz à grega",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 77.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "22",
+        "nome": "Arroz à piamontese",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 150.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "23",
+        "nome": "Arroz carreteiro",
+        "unidade_medida": "40g",
+        "calorias_por_unidade": 150.0,
+        "proteinas_por_unidade": 10.33,
+        "carboidratos_por_unidade": 11.11,
+        "gorduras_por_unidade": 7.09
+    },
+    {
+        "id": "24",
+        "nome": "Arroz de forno",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 150.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "25",
+        "nome": "Arroz integral",
+        "unidade_medida": "40g",
+        "calorias_por_unidade": 51.2,
+        "proteinas_por_unidade": 1.0,
+        "carboidratos_por_unidade": 10.32,
+        "gorduras_por_unidade": 0.04
+    },
+    {
+        "id": "26",
+        "nome": "Bacalhau à Portuguesa",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 91.73,
+        "proteinas_por_unidade": 10.0,
+        "carboidratos_por_unidade": 3.56,
+        "gorduras_por_unidade": 3.78
+    },
+    {
+        "id": "27",
+        "nome": "Bacalhau ao Zé do Pipo",
+        "unidade_medida": "314 g",
+        "calorias_por_unidade": 428.38,
+        "proteinas_por_unidade": 53.1,
+        "carboidratos_por_unidade": 8.75,
+        "gorduras_por_unidade": 19.02
+    },
+    {
+        "id": "28",
+        "nome": "Banana média",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.52,
+        "carboidratos_por_unidade": 10.32,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "29",
+        "nome": "Batata à Francesa",
+        "unidade_medida": "140g",
+        "calorias_por_unidade": 475.0,
+        "proteinas_por_unidade": 1.84,
+        "carboidratos_por_unidade": 18.4,
+        "gorduras_por_unidade": 44.1
+    },
+    {
+        "id": "30",
+        "nome": "Batata baroa",
+        "unidade_medida": null,
+        "calorias_por_unidade": 70.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "31",
+        "nome": "Batata chips",
+        "unidade_medida": null,
+        "calorias_por_unidade": 335.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "32",
+        "nome": "Batata Cozida",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 80.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "33",
+        "nome": "Batata Doce",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 52.0,
+        "proteinas_por_unidade": 0.2,
+        "carboidratos_por_unidade": 5.5,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "34",
+        "nome": "Batata gratigana",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 135.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "35",
+        "nome": "Batata Halwa",
+        "unidade_medida": "60g",
+        "calorias_por_unidade": 53.9,
+        "proteinas_por_unidade": 0.64,
+        "carboidratos_por_unidade": 10.52,
+        "gorduras_por_unidade": 0.56
+    },
+    {
+        "id": "36",
+        "nome": "Batata palha",
+        "unidade_medida": null,
+        "calorias_por_unidade": 93.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "37",
+        "nome": "Beringela ao Vinagrete",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 35.0,
+        "proteinas_por_unidade": 0.5,
+        "carboidratos_por_unidade": 3.9,
+        "gorduras_por_unidade": 1.63
+    },
+    {
+        "id": "38",
+        "nome": "Beringela e Pimentões",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 33.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "39",
+        "nome": "Berinjela Colorida",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "40",
+        "nome": "Beterraba Cozida",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 28.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "41",
+        "nome": "Beterraba Cozida",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 28.0,
+        "proteinas_por_unidade": 0.5,
+        "carboidratos_por_unidade": 2.8,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "42",
+        "nome": "Beterraba Ralada",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 20.0,
+        "proteinas_por_unidade": 0.4,
+        "carboidratos_por_unidade": 2.2,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "43",
+        "nome": "Beterraba Temperada",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 28.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "44",
+        "nome": "Bife à cavalo",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 356.76,
+        "proteinas_por_unidade": 42.43,
+        "carboidratos_por_unidade": 2.54,
+        "gorduras_por_unidade": 17.8
+    },
+    {
+        "id": "45",
+        "nome": "Bife a Oswaldo Aranha",
+        "unidade_medida": "165g",
+        "calorias_por_unidade": 458.0,
+        "proteinas_por_unidade": 49.56,
+        "carboidratos_por_unidade": 0.05,
+        "gorduras_por_unidade": 27.54
+    },
+    {
+        "id": "46",
+        "nome": "Bife á Parmegiana Bovino",
+        "unidade_medida": "120g",
+        "calorias_por_unidade": 399.0,
+        "proteinas_por_unidade": 36.0,
+        "carboidratos_por_unidade": 43.0,
+        "gorduras_por_unidade": 8.0
+    },
+    {
+        "id": "47",
+        "nome": "Bife Acebolado",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "48",
+        "nome": "Bife de panela",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 265.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "49",
+        "nome": "Bife Pernil grelhado",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 354.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "50",
+        "nome": "Bisteca",
+        "unidade_medida": "195g",
+        "calorias_por_unidade": 256.95,
+        "proteinas_por_unidade": 38.18,
+        "carboidratos_por_unidade": 2.59,
+        "gorduras_por_unidade": 10.02
+    },
+    {
+        "id": "51",
+        "nome": "Bolinho de bacalhau",
+        "unidade_medida": "2 unidades",
+        "calorias_por_unidade": 70.25,
+        "proteinas_por_unidade": 5.16,
+        "carboidratos_por_unidade": 1.73,
+        "gorduras_por_unidade": 3.4
+    },
+    {
+        "id": "52",
+        "nome": "Brócolis",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 100.0,
+        "proteinas_por_unidade": 2.1,
+        "carboidratos_por_unidade": 4.4,
+        "gorduras_por_unidade": 0.5
+    },
+    {
+        "id": "53",
+        "nome": "Brócolis c/ Cenoura",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 100.0,
+        "proteinas_por_unidade": 2.1,
+        "carboidratos_por_unidade": 4.4,
+        "gorduras_por_unidade": 0.5
+    },
+    {
+        "id": "54",
+        "nome": "Brócolis c/ Couve-flor ao Alho e Óleo",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "55",
+        "nome": "Canelone ao molho",
+        "unidade_medida": "52g",
+        "calorias_por_unidade": 106.98,
+        "proteinas_por_unidade": 9.27,
+        "carboidratos_por_unidade": 1.42,
+        "gorduras_por_unidade": 7.06
+    },
+    {
+        "id": "56",
+        "nome": "Carne Cozida",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 259.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "57",
+        "nome": "Carne cozida c/ mandioca",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 216.5,
+        "proteinas_por_unidade": 32.68,
+        "carboidratos_por_unidade": 9.3,
+        "gorduras_por_unidade": 4.59
+    },
+    {
+        "id": "58",
+        "nome": "Carne cozida c/ mandioca",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 348.5,
+        "proteinas_por_unidade": 54.44,
+        "carboidratos_por_unidade": 12.04,
+        "gorduras_por_unidade": 7.62
+    },
+    {
+        "id": "59",
+        "nome": "Carne de Panela",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 212.4,
+        "proteinas_por_unidade": 26.7,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 10.9
+    },
+    {
+        "id": "60",
+        "nome": "Cassoulet",
+        "unidade_medida": "144g",
+        "calorias_por_unidade": 430.06,
+        "proteinas_por_unidade": 29.24,
+        "carboidratos_por_unidade": 21.51,
+        "gorduras_por_unidade": 24.45
+    },
+    {
+        "id": "61",
+        "nome": "Cebola Temperada",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 8.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "62",
+        "nome": "Cenoura ao Vinagrete",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "63",
+        "nome": "Cenoura Baby",
+        "unidade_medida": "50g",
+        "calorias_por_unidade": 39.4,
+        "proteinas_por_unidade": 0.25,
+        "carboidratos_por_unidade": 9.04,
+        "gorduras_por_unidade": 0.12
+    },
+    {
+        "id": "64",
+        "nome": "Cenoura Cozida",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 39.0,
+        "proteinas_por_unidade": 0.3,
+        "carboidratos_por_unidade": 2.6,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "65",
+        "nome": "Cenoura Ralada",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 21.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "66",
+        "nome": "Cenoura Ralada",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 17.0,
+        "proteinas_por_unidade": 0.2,
+        "carboidratos_por_unidade": 1.3,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "67",
+        "nome": "Cenoura Ralada c/ Passas",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 35.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "68",
+        "nome": "Charuto de repolho e carne",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 106.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "69",
+        "nome": "Chuchu c/ Brócolis",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 22.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "70",
+        "nome": "Chuchu Colorido",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 49.0,
+        "proteinas_por_unidade": 0.2,
+        "carboidratos_por_unidade": 2.4,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "71",
+        "nome": "Chuchu com Cenoura",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "72",
+        "nome": "Contra Filé Grelhado",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 383.84,
+        "proteinas_por_unidade": 56.11,
+        "carboidratos_por_unidade": 0.3,
+        "gorduras_por_unidade": 16.02
+    },
+    {
+        "id": "73",
+        "nome": "Copa Lombo Suíno Assado ao Molho Roty",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 250.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "74",
+        "nome": "Couve ",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 20.0,
+        "proteinas_por_unidade": 0.4,
+        "carboidratos_por_unidade": 0.9,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "75",
+        "nome": "Couve Flor c/ Brócolis",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 38.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "76",
+        "nome": "Couve flor c/ tomate",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 24.0,
+        "proteinas_por_unidade": 1.98,
+        "carboidratos_por_unidade": 5.3,
+        "gorduras_por_unidade": 0.3
+    },
+    {
+        "id": "77",
+        "nome": "Cozido Misto",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 215.0,
+        "proteinas_por_unidade": 27.3,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 10.9
+    },
+    {
+        "id": "78",
+        "nome": "Creme de Milho",
+        "unidade_medida": "1 concha",
+        "calorias_por_unidade": 96.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "79",
+        "nome": "Cubo bovino acebolado",
+        "unidade_medida": null,
+        "calorias_por_unidade": 230.0,
+        "proteinas_por_unidade": 45.0,
+        "carboidratos_por_unidade": 12.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "80",
+        "nome": "Cubo bovino acebolado",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 230.0,
+        "proteinas_por_unidade": 45.0,
+        "carboidratos_por_unidade": 12.0,
+        "gorduras_por_unidade": 25.0
+    },
+    {
+        "id": "81",
+        "nome": "Doce de Casca de Abóbora",
+        "unidade_medida": "65g",
+        "calorias_por_unidade": 126.33,
+        "proteinas_por_unidade": 1.0,
+        "carboidratos_por_unidade": 42.3,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "82",
+        "nome": "Ervilha c/ Tomate",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "83",
+        "nome": "Espaguete ao Molho de Ervas",
+        "unidade_medida": "90g",
+        "calorias_por_unidade": 126.92,
+        "proteinas_por_unidade": 4.3,
+        "carboidratos_por_unidade": 25.47,
+        "gorduras_por_unidade": 0.6
+    },
+    {
+        "id": "84",
+        "nome": "Espaguete ao Molho de Manjericão",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 114.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "85",
+        "nome": "Farofa de ovos com passas",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 210.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "86",
+        "nome": "Feijão",
+        "unidade_medida": "165g",
+        "calorias_por_unidade": 127.0,
+        "proteinas_por_unidade": 6.6,
+        "carboidratos_por_unidade": 23.1,
+        "gorduras_por_unidade": 1.65
+    },
+    {
+        "id": "87",
+        "nome": "Feijão",
+        "unidade_medida": "95gr",
+        "calorias_por_unidade": 73.0,
+        "proteinas_por_unidade": 3.8,
+        "carboidratos_por_unidade": 13.3,
+        "gorduras_por_unidade": 0.95
+    },
+    {
+        "id": "88",
+        "nome": "Feijoada",
+        "unidade_medida": "1 concha - 180g",
+        "calorias_por_unidade": 389.0,
+        "proteinas_por_unidade": 2.22,
+        "carboidratos_por_unidade": 2.96,
+        "gorduras_por_unidade": 1.66
+    },
+    {
+        "id": "89",
+        "nome": "Filé de Frango a Milanesa",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 320.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "90",
+        "nome": "Filé de Frango á Milanesa",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 260.0,
+        "proteinas_por_unidade": 26.0,
+        "carboidratos_por_unidade": 7.0,
+        "gorduras_por_unidade": 10.0
+    },
+    {
+        "id": "91",
+        "nome": "Filé de Frango Grelhado",
+        "unidade_medida": "165g",
+        "calorias_por_unidade": 159.0,
+        "proteinas_por_unidade": 32.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 2.5
+    },
+    {
+        "id": "92",
+        "nome": "Filé de Frango Grelhado",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 250.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "93",
+        "nome": "Filé Mignon",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 45.45,
+        "carboidratos_por_unidade": 0.2,
+        "gorduras_por_unidade": 16.56
+    },
+    {
+        "id": "94",
+        "nome": "Filé Mignon",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 267.0,
+        "proteinas_por_unidade": 26.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 17.0
+    },
+    {
+        "id": "95",
+        "nome": "Frango Assado",
+        "unidade_medida": "1 unidade",
+        "calorias_por_unidade": 462.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "96",
+        "nome": "Fricassê de Frango",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 133.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "97",
+        "nome": "Frios ao Vinagrete",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "98",
+        "nome": "Galinha Escandalosa",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 197.0,
+        "proteinas_por_unidade": 17.34,
+        "carboidratos_por_unidade": 13.5,
+        "gorduras_por_unidade": 6.4
+    },
+    {
+        "id": "99",
+        "nome": "Gramile",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 44.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "100",
+        "nome": "Grão de Bico ao Vinagrete",
+        "unidade_medida": "1 colher rasa",
+        "calorias_por_unidade": 52.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "101",
+        "nome": "Grão de Bico c/ Presunto",
+        "unidade_medida": "1 colher rasa",
+        "calorias_por_unidade": 50.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "102",
+        "nome": "Grão de Bico com Cheiro Verde ",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "103",
+        "nome": "Hambúrguer Bovino",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 209.8,
+        "proteinas_por_unidade": 13.2,
+        "carboidratos_por_unidade": 11.3,
+        "gorduras_por_unidade": 12.4
+    },
+    {
+        "id": "104",
+        "nome": "Laranja média",
+        "unidade_medida": "1 unidade",
+        "calorias_por_unidade": 113.4,
+        "proteinas_por_unidade": 2.34,
+        "carboidratos_por_unidade": 27.9,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "105",
+        "nome": "Lasanha a Bolonhesa",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 341.0,
+        "proteinas_por_unidade": 23.0,
+        "carboidratos_por_unidade": 31.0,
+        "gorduras_por_unidade": 17.0
+    },
+    {
+        "id": "106",
+        "nome": "Linguiça de frango",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 195.0,
+        "proteinas_por_unidade": 14.5,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 14.7
+    },
+    {
+        "id": "107",
+        "nome": "Lingüiça de Pernil Acebolado",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 224.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "108",
+        "nome": "Locro carreteiro",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 208.0,
+        "proteinas_por_unidade": 11.0,
+        "carboidratos_por_unidade": 12.0,
+        "gorduras_por_unidade": 7.0
+    },
+    {
+        "id": "109",
+        "nome": "Lombo",
+        "unidade_medida": "300g",
+        "calorias_por_unidade": 536.0,
+        "proteinas_por_unidade": 89.3,
+        "carboidratos_por_unidade": 0.46,
+        "gorduras_por_unidade": 16.0
+    },
+    {
+        "id": "110",
+        "nome": "Lombo Assado",
+        "unidade_medida": "100 g",
+        "calorias_por_unidade": 210.2,
+        "proteinas_por_unidade": 35.7,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 6.4
+    },
+    {
+        "id": "111",
+        "nome": "Maçã média",
+        "unidade_medida": null,
+        "calorias_por_unidade": 67.6,
+        "proteinas_por_unidade": 0.34,
+        "carboidratos_por_unidade": 17.95,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "112",
+        "nome": "Macarrão ao Alho e Óleo",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 116.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "113",
+        "nome": "Maionese rosé",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 131.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "114",
+        "nome": "Mamão",
+        "unidade_medida": "1 fatia média",
+        "calorias_por_unidade": 76.5,
+        "proteinas_por_unidade": 1.36,
+        "carboidratos_por_unidade": 19.72,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "115",
+        "nome": "Manga c/ Passas",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 75.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "116",
+        "nome": "Melancia",
+        "unidade_medida": "1 fatia média",
+        "calorias_por_unidade": 33.0,
+        "proteinas_por_unidade": 0.68,
+        "carboidratos_por_unidade": 9.23,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "117",
+        "nome": "Melão",
+        "unidade_medida": "1 fatia média",
+        "calorias_por_unidade": 36.0,
+        "proteinas_por_unidade": 0.45,
+        "carboidratos_por_unidade": 13.5,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "118",
+        "nome": "Mista de Folhas",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 9.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "119",
+        "nome": "Mix de Folhas ",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 9.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "120",
+        "nome": "Moranga sauté",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 37.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "121",
+        "nome": "Omelete na chapa",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 15.6,
+        "carboidratos_por_unidade": 0.4,
+        "gorduras_por_unidade": 22.0
+    },
+    {
+        "id": "122",
+        "nome": "Panqueca de Carne",
+        "unidade_medida": "165g",
+        "calorias_por_unidade": 251.6,
+        "proteinas_por_unidade": 22.0,
+        "carboidratos_por_unidade": 9.2,
+        "gorduras_por_unidade": 13.6
+    },
+    {
+        "id": "123",
+        "nome": "Panqueca de Carne",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 268.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "124",
+        "nome": "Parafuso ao Sugo",
+        "unidade_medida": "101g",
+        "calorias_por_unidade": 90.0,
+        "proteinas_por_unidade": 7.56,
+        "carboidratos_por_unidade": 41.56,
+        "gorduras_por_unidade": 1.17
+    },
+    {
+        "id": "125",
+        "nome": "Pastel de carne",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 103.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "126",
+        "nome": "Peixe ao brás",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 210.0,
+        "proteinas_por_unidade": 44.4,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 2.3
+    },
+    {
+        "id": "127",
+        "nome": "Pepino ao Vinagrete",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 26.0,
+        "proteinas_por_unidade": 0.2,
+        "carboidratos_por_unidade": 0.4,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "128",
+        "nome": "Pepino c/ Milho",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 17.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "129",
+        "nome": "Pepino em rodelas",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 12.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "130",
+        "nome": "Pepino em Rodelas",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 12.0,
+        "proteinas_por_unidade": 0.2,
+        "carboidratos_por_unidade": 0.4,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "131",
+        "nome": "Pernil ao Molho Ferrugem",
+        "unidade_medida": "100 g",
+        "calorias_por_unidade": 222.0,
+        "proteinas_por_unidade": 18.7,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 15.6
+    },
+    {
+        "id": "132",
+        "nome": "Pernil Assado",
+        "unidade_medida": null,
+        "calorias_por_unidade": 313.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "133",
+        "nome": "Picadinho de Carne ao Molho",
+        "unidade_medida": "160g",
+        "calorias_por_unidade": 318.9,
+        "proteinas_por_unidade": 1.02,
+        "carboidratos_por_unidade": 1.02,
+        "gorduras_por_unidade": 12.9
+    },
+    {
+        "id": "134",
+        "nome": "Picadinho de Carne c/ Cenoura",
+        "unidade_medida": "160g",
+        "calorias_por_unidade": 318.9,
+        "proteinas_por_unidade": 1.02,
+        "carboidratos_por_unidade": 1.02,
+        "gorduras_por_unidade": 12.9
+    },
+    {
+        "id": "135",
+        "nome": "Pirão",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 33.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "136",
+        "nome": "Polenta ao sugo",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 60.0,
+        "proteinas_por_unidade": 2.3,
+        "carboidratos_por_unidade": 14.0,
+        "gorduras_por_unidade": 0.6
+    },
+    {
+        "id": "137",
+        "nome": "Polenta frita",
+        "unidade_medida": "60g",
+        "calorias_por_unidade": 90.0,
+        "proteinas_por_unidade": 0.66,
+        "carboidratos_por_unidade": 10.96,
+        "gorduras_por_unidade": 0.7
+    },
+    {
+        "id": "138",
+        "nome": "Purê de batata",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 112.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "139",
+        "nome": "Quibe Assado",
+        "unidade_medida": "100 g",
+        "calorias_por_unidade": 136.2,
+        "proteinas_por_unidade": 14.6,
+        "carboidratos_por_unidade": 12.9,
+        "gorduras_por_unidade": 2.7
+    },
+    {
+        "id": "140",
+        "nome": "Repolho ao Vinagrete",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "141",
+        "nome": "Repolho ao Vinagrete",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 26.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "142",
+        "nome": "Repolho búlgaro",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 37.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "143",
+        "nome": "Repolho c/ Abacaxi",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 18.0,
+        "proteinas_por_unidade": 0.5,
+        "carboidratos_por_unidade": 2.4,
+        "gorduras_por_unidade": 0.07
+    },
+    {
+        "id": "144",
+        "nome": "Repolho c/ Passas",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 26.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "145",
+        "nome": "Repolho refogado",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 28.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "146",
+        "nome": "Repolho Roxo",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 10.0,
+        "proteinas_por_unidade": 0.4,
+        "carboidratos_por_unidade": 1.4,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "147",
+        "nome": "Rocambole de Carne",
+        "unidade_medida": "57g",
+        "calorias_por_unidade": 147.13,
+        "proteinas_por_unidade": 13.0,
+        "carboidratos_por_unidade": 0.92,
+        "gorduras_por_unidade": 9.81
+    },
+    {
+        "id": "148",
+        "nome": "Salada Alemã",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 154.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "149",
+        "nome": "Salada Brasileira",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "150",
+        "nome": "Salada Crocante",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 75.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "151",
+        "nome": "Salada de Abóbora",
+        "unidade_medida": "80g",
+        "calorias_por_unidade": 15.9,
+        "proteinas_por_unidade": 0.5,
+        "carboidratos_por_unidade": 3.9,
+        "gorduras_por_unidade": 0.06
+    },
+    {
+        "id": "152",
+        "nome": "Salada de Batata c/ Atum",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 88.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "153",
+        "nome": "Salada de Batata c/ Brócolis",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "154",
+        "nome": "Salada de Brócolis",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 25.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "155",
+        "nome": "Salada de Brócolis c/ Tomate Cereja",
+        "unidade_medida": null,
+        "calorias_por_unidade": 26.7,
+        "proteinas_por_unidade": 0.98,
+        "carboidratos_por_unidade": 2.11,
+        "gorduras_por_unidade": 0.12
+    },
+    {
+        "id": "156",
+        "nome": "Salada de Cebola ",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "157",
+        "nome": "Salada de Couve Flor",
+        "unidade_medida": null,
+        "calorias_por_unidade": 16.6,
+        "proteinas_por_unidade": 1.06,
+        "carboidratos_por_unidade": 3.48,
+        "gorduras_por_unidade": 0.01
+    },
+    {
+        "id": "158",
+        "nome": "Salada de Feijão Branco",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 17.0,
+        "proteinas_por_unidade": 1.08,
+        "carboidratos_por_unidade": 3.1,
+        "gorduras_por_unidade": 0.08
+    },
+    {
+        "id": "159",
+        "nome": "Salada de Feijão Branco c/ Tomate",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "160",
+        "nome": "Salada de Frios ",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 64.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "161",
+        "nome": "Salada de frutas",
+        "unidade_medida": "1 copo pequeno",
+        "calorias_por_unidade": 148.5,
+        "proteinas_por_unidade": 1.1,
+        "carboidratos_por_unidade": 28.13,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "162",
+        "nome": "Salada de Jiló",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "163",
+        "nome": "Salada de Lentilha",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 30.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "164",
+        "nome": "Salada de Lentilha ao Vinagrete",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 41.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "165",
+        "nome": "Salada de Milho c/ Passas",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "166",
+        "nome": "Salada de Rúcula c/ Queijo",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 26.31,
+        "proteinas_por_unidade": 1.83,
+        "carboidratos_por_unidade": 1.46,
+        "gorduras_por_unidade": 1.56
+    },
+    {
+        "id": "167",
+        "nome": "Salada de Rúcula e Alface c/ Tomate Cereja e Queijo Mussarela",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 26.31,
+        "proteinas_por_unidade": 1.83,
+        "carboidratos_por_unidade": 1.46,
+        "gorduras_por_unidade": 1.56
+    },
+    {
+        "id": "168",
+        "nome": "Salada de Soja em Grão",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 59.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "169",
+        "nome": "Salada de Soja Texturizada",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 59.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "170",
+        "nome": "Salada Grega",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 84.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "171",
+        "nome": "Salada hawaiana ",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "172",
+        "nome": "Salada Lemaner",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 50.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "173",
+        "nome": "Salada light",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 76.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "174",
+        "nome": "Salada Marroquina",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 98.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "175",
+        "nome": "Salada Portuguesa",
+        "unidade_medida": "60g",
+        "calorias_por_unidade": 53.9,
+        "proteinas_por_unidade": 0.64,
+        "carboidratos_por_unidade": 10.52,
+        "gorduras_por_unidade": 0.56
+    },
+    {
+        "id": "176",
+        "nome": "Salada Primavera",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "177",
+        "nome": "Salada primavera 2",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 71.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "178",
+        "nome": "Salada Russa",
+        "unidade_medida": "100g",
+        "calorias_por_unidade": 172.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "179",
+        "nome": "Salada Tropical",
+        "unidade_medida": "1 pegador",
+        "calorias_por_unidade": 35.68,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "180",
+        "nome": "Salada Tropical",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 50.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "181",
+        "nome": "Salmão ao molho de maracujá",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 451.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "182",
+        "nome": "Salpicão",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 124.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "183",
+        "nome": "Salsicha ao Molho",
+        "unidade_medida": "82 g",
+        "calorias_por_unidade": 147.07,
+        "proteinas_por_unidade": 7.62,
+        "carboidratos_por_unidade": 5.79,
+        "gorduras_por_unidade": 10.4
+    },
+    {
+        "id": "184",
+        "nome": "Tabule",
+        "unidade_medida": "1 colher (60 g)",
+        "calorias_por_unidade": 109.0,
+        "proteinas_por_unidade": 2.63,
+        "carboidratos_por_unidade": 15.82,
+        "gorduras_por_unidade": 4.5
+    },
+    {
+        "id": "185",
+        "nome": "Tabule Tropical",
+        "unidade_medida": "1 colher (44 g)",
+        "calorias_por_unidade": 59.82,
+        "proteinas_por_unidade": 1.38,
+        "carboidratos_por_unidade": 9.43,
+        "gorduras_por_unidade": 2.28
+    },
+    {
+        "id": "186",
+        "nome": "Tiras de Fígado aceboladas",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 360.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "187",
+        "nome": "Tomate",
+        "unidade_medida": "1 porção",
+        "calorias_por_unidade": 12.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "188",
+        "nome": "Tomate c/ Azeitona",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 32.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "189",
+        "nome": "Tomate c/ Cheiro Verde",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 12.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "190",
+        "nome": "Tomate c/ Milho ",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 16.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "191",
+        "nome": "Tomate c/ Passas",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 29.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "192",
+        "nome": "Tomate com Cebola",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 29.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "193",
+        "nome": "Torta de Batata",
+        "unidade_medida": "1",
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "194",
+        "nome": "Torta de Carne c/ Legumes",
+        "unidade_medida": "165g",
+        "calorias_por_unidade": 143.0,
+        "proteinas_por_unidade": 14.78,
+        "carboidratos_por_unidade": 7.13,
+        "gorduras_por_unidade": 5.91
+    },
+    {
+        "id": "195",
+        "nome": "Vagem colorida",
+        "unidade_medida": "1 colher ",
+        "calorias_por_unidade": 22.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "196",
+        "nome": "Vinagrete",
+        "unidade_medida": null,
+        "calorias_por_unidade": 0.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "197",
+        "nome": "Vinagrete",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 21.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "198",
+        "nome": "Virado de cenoura",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 101.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    },
+    {
+        "id": "199",
+        "nome": "Virado de legumes",
+        "unidade_medida": "1 colher",
+        "calorias_por_unidade": 121.0,
+        "proteinas_por_unidade": 0.0,
+        "carboidratos_por_unidade": 0.0,
+        "gorduras_por_unidade": 0.0
+    }
+]
